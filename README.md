@@ -8,3 +8,5 @@ Based on the excel data, the pbix report contains the following analyses:
 -	Revenue by product category
 -	Top 5 states in terms of sales 
 -	Other insights based on Key influencers, Decomposition Tree, and other visualizations
+
+Created an extra table "First", which flags the first order date for each Customer.
